@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOLIDPrinciple/1.0.0": {
+        "runtime": {
+          "SOLIDPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLIDPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

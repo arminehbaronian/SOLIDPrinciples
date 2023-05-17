@@ -1,0 +1,12 @@
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.csproj.AssemblyReference.cache
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.AssemblyInfoInputs.cache
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.AssemblyInfo.cs
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.csproj.CoreCompileInputs.cache
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.deps.json
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.dll
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\bin\Debug\net6.0\SOLIDPrinciple.pdb
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.dll
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\refint\SOLIDPrinciple.dll
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\SOLIDPrinciple.pdb
+D:\Learning\SOLIDPrinciple\SOLIDPrinciple\SOLIDPrinciple\obj\Debug\net6.0\ref\SOLIDPrinciple.dll
